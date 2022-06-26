@@ -72,5 +72,5 @@ DARE = (
     "Send a screenshot of your gallery.",
     "Set your crush’s picture as your dp.",
     "Suggest me more dares.",
-    "see your [OWNER](https://t.me/OneUnoOnly)",
+    "see your [OWNER](https://t.me/unomabait)",
 )
