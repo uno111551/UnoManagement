@@ -1,7 +1,7 @@
 <h1 align= center><b>⭐️ LOGI GROUP MANAGEMENT BOT ⭐️</b></h1>
 <h3 align = center> LOGI is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.</h3>
 
-<p align="center"><img src="https://te.legra.ph/file/772a084488dbac5eafd7a.jpg"></p>
+<p align="center"><img src="https://telegra.ph/file/72a465f627ad302d4a9bd.jpg"></p>
 
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
