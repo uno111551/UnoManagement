@@ -72,6 +72,9 @@ def no_longer_afk(update: Update, context: CallbackContext):
                 "Hi {}! bat ka bumalik?",
                 "may chismis kana ba?",
                 "Where is {}?\nIn the chat!",
+                "Aba may nagbabalik na tanga?",
+                "Buti buhay kapa {}.",
+                "Pwede ka na mag afk ulit {}.",
             ]
             chosen_option = random.choice(options)
             update.effective_message.reply_text(chosen_option.format(firstname))
