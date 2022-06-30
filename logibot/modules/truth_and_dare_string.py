@@ -1,5 +1,8 @@
 TRUTH = (
     "Have you ghosted someone?"
+    "Kumain kana ba?",
+    "Ano pinakawild mo na ginawa sa buong buhay mo?",
+    "Maganda si ashanti 'no? Oo lang ang sagot.",
     "Have you ever walked in on your parents doing 'it'?",
     "Who was the last person you liked the most? Why?",
     "Have you ever been suspended from school?",
@@ -26,7 +29,8 @@ DARE = (
     "Show the last five people you texted and what the messages said",
     "Let the rest of the group DM someone from your Instagram account",
     "Eat a raw piece of garlic",
-    "bbt with uno",
+    "sabihan ng pogi si uno",
+    "sabihan ng maganda si ashanti",
     "Keep three ice cubes in your mouth until they melt",
     "Say something dirty to the person on your leftYou've got company!",
     "Give a foot massage to the person on your right",
